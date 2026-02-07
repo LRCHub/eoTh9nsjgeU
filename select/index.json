@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "マッド",
+  "base_artist": "Ne-Yo",
+  "createdAt": "2026-02-07T10:31:43.759050Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "マッド・モンスター",
+      "artist": "Detroit Metal City",
+      "has_synced": false,
+      "path": "select/01_マッド・モンスター_Detroit_Metal_City.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Mad",
+      "artist": "Ne-Yo",
+      "has_synced": false,
+      "path": "select/pl_01_Mad_Ne-Yo.txt"
+    }
+  ]
+}
